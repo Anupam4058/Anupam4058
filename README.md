@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam4058&label=Profile%20views&color=0e75b6&style=flat" alt="anupam4058" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Software Engineering & machine learning Projects**
 
-- 👯 I’m looking to collaborate on **Data Science & Machine learning Projects**
+- 👯 I’m looking to collaborate on **Software Engineering & Machine learning Projects**
 
-- 💬 Ask me about **C++,Python,HTML,CSS,SQL**
+- 💬 Ask me about **C++,Python,ReactJs,NodeJs,MySQL**
 
 - 📫 How to reach me **anupamkumar46511@gmail.com**
 

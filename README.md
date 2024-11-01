@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anupamkumar46511@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m0tOj_IreOLjT5dqM582eFPbIsGOF94D/view?usp=drivesdk](https://drive.google.com/file/d/1m0tOj_IreOLjT5dqM582eFPbIsGOF94D/view?usp=drivesdk)
+usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupam Kumar singh</h1>
-<h3 align="center">Passionate student exploring the realms of data science and machine learning.</h3>
+<h3 align="center">Passionate student exploring the realms of Software Engineering and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam4058&label=Profile%20views&color=0e75b6&style=flat" alt="anupam4058" /> </p>
 

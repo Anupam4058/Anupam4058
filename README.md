@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anupamkumar46511@gmail.com**
 
-- Checkout my CV: https://drive.google.com/file/d/1A7FyKS6lDT1n3T7JKpFBNPSRTRg7hhSL/view?usp=drive_linkusp=drivesdk)
+- Checkout my CV: https://drive.google.com/file/d/12_TgWLC9_7KiGVj0Io1mpAk3jLTeHmc4/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

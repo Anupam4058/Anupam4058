@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Anupam Kumar Singh</h1>
-<h3 align="center">Passionate student exploring Software Engineering and Machine Learning</h3>
+<h1 align="center">👾 hey, I'm Anupam</h1>
+<h3 align="center">working with Data and AI to build stuff that (hopefully) matters</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anupam4058&label=Profile%20views&color=0e75b6&style=flat" alt="anupam4058" />
@@ -9,12 +9,13 @@
 
 ## About me
 
-- 🔭 Currently working on **Software Engineering** & **Machine Learning** projects
-- 👯 Open to collaborating on **Software Engineering** & **Machine Learning** projects
-- 💬 Ask me about **C++**, **Python**, **React.js**, **Node.js**, **MySQL**
+- 🎓 Final-year B.Tech student in Computer Engineering
+- 🤖 Currently focused on **Data, AI, and Machine Learning**
+- 📊 Interested in building intelligent systems and data-driven solutions
+- 🧠 Exploring **Data Engineering**, **NLP**, and **LLM-powered workflows**
+- 💬 Ask me about **Python**, **SQL**, **Snowflake**, **Genrative AI** and **RAG**
 - 📫 Reach me at: **[anupamkumar46511@gmail.com](mailto:anupamkumar46511@gmail.com)**
 - 📄 CV: [View CV](https://drive.google.com/file/d/12_TgWLC9_7KiGVj0Io1mpAk3jLTeHmc4/view?usp=sharing)
-
 ---
 
 ## Connect with me
